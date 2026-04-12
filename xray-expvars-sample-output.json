@@ -1,0 +1,64 @@
+{
+  "observatory": {
+    "vpn-jp": {
+      "alive": true,
+      "delay": 886,
+      "outbound_tag": "vpn-jp",
+      "last_seen_time": 1776006321,
+      "last_try_time": 1776006321
+    },
+    "vpn-la": {
+      "alive": true,
+      "delay": 567,
+      "outbound_tag": "vpn-la",
+      "last_seen_time": 1776006336,
+      "last_try_time": 1776006336
+    },
+    "vpn-nl": {
+      "alive": true,
+      "delay": 543,
+      "outbound_tag": "vpn-nl",
+      "last_seen_time": 1776006352,
+      "last_try_time": 1776006352
+    }
+  },
+  "stats": {
+    "inbound": {
+      "transparent": {
+        "downlink": 23108149,
+        "uplink": 10664547
+      }
+    },
+    "outbound": {
+      "blackhole": {
+        "downlink": 0,
+        "uplink": 0
+      },
+      "direct": {
+        "downlink": 11876941,
+        "uplink": 7439849
+      },
+      "dns-out": {
+        "downlink": 0,
+        "uplink": 0
+      },
+      "line-801": {
+        "downlink": 27231,
+        "uplink": 2111
+      },
+      "vpn-jp": {
+        "downlink": 9559378,
+        "uplink": 1495041
+      },
+      "vpn-la": {
+        "downlink": 241536,
+        "uplink": 23323
+      },
+      "vpn-nl": {
+        "downlink": 4673919,
+        "uplink": 1128742
+      }
+    },
+    "user": {}
+  }
+}
